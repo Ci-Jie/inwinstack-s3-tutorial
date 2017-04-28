@@ -15,7 +15,7 @@ sudo apt-get update
 sudo apt-get -y install apache2 mysql-server php5-mysql php5 libapache2-mod-php5 php5-mcrypt php5-curl php5-gd php5-intl php5-xsl php5-ldap libssh2-php sqlite php5-sqlite
 ```
 
-接下來，使用編輯器將 Host Name 如下填入 `/etc/hosts/`
+接下來，使用編輯器將 Host Name 如下填入 `/etc/hosts`
 
 ```
 127.0.0.1 localhost
